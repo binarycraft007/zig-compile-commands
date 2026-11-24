@@ -1,0 +1,13 @@
+.{
+    .name = .zig_compile_commands,
+    .version = "0.1.0",
+    .fingerprint = 0xa55d894f5adaf2ce,
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+    },
+}
